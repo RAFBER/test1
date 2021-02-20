@@ -11,6 +11,7 @@ permalink: /
 # Introduction
 
 Tis is a simple text.
+Tis is a simple text. 
 
 
 

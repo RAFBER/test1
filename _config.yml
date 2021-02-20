@@ -1,0 +1,15 @@
+name: RAFBER
+title: Documentation test
+description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+remote_theme: RAFBER/just-the-docs
+
+color_scheme: dark
+
+aux_links:
+  "Source repository on GitHub":
+    - "//github.com/RAFBER/test1"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Example content"

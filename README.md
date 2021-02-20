@@ -1,1 +1,2 @@
-# test1
+# Mini-Morris
+Template created during lectures
